@@ -1,0 +1,41 @@
+Q. What is Design Patterns? 
+    - Software design patterns is a general, reusable solution to a commonly Occuring in problem.
+
+
+Parameters to understand:
+    1. Pattern Name
+    2. Purpose
+    3. Implementation.
+    4. Example.
+
+Types Of Design Patterns:
+    - Creational
+    - Structural
+    - Behavioural
+
+    Creational Design Pattern
+        - SingleTon
+        - Factory
+        - Builder
+        - Prototype
+
+    Structural Design Pattern
+        - Adapter
+        - Decorator
+        - Facade
+        - Proxy
+
+    Behavioural Design Pattern
+        - Chain of responsibility
+        - Strategy
+        - Observer
+        - State 
+        - Template
+        - FlyWeight
+
+    Concurrency Design Pattern
+        - Read Write lock patterns
+        - Thread pool patterns
+
+Characteristics of Design Patterns:
+    Language Independent, Open to improve, Dependable and reliable to use;;;
